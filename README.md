@@ -3,9 +3,9 @@
 🌟 About Me
 - I'm Siddhi Kapil, currently pursuing engineering in Computer Science and Artificial Intelligence (2021-2025).
 - 💻 Journeying to become a skilled AI engineer.
-- 🚀 Excitedly working on AI projects.
+- 🚀 Excitedly working on Data Science and AI projects.
 - 📚 Constantly learning and growing.
-- 🌐 Let's connect and explore AI together!
+- 🌐 Let's connect and explore Data science and AI together!
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
